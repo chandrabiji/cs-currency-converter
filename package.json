@@ -1,0 +1,26 @@
+{
+  "name": "cc-currency-converter",
+  "version": "1.0.0",
+  "description": "An Currency Converter",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chandrabiji/cs-currency-converter.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Chandu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chandrabiji/cs-currency-converter/issues"
+  },
+  "homepage": "https://github.com/chandrabiji/cs-currency-converter#readme",
+  "dependencies": {
+    "@everapi/freecurrencyapi-js": "^1.0.1"
+  }
+}
